@@ -1,8 +1,8 @@
 package io.github.jschenfeld.automation.selenium;
 
-import java.util.concurrent.TimeUnit;
+//import java.util.concurrent.TimeUnit;
 
-import org.openqa.selenium.By;
+//import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.Assert;
@@ -14,7 +14,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 import io.github.jschenfeld.automation.selenium.pages.DuckDuckGoBusquedaPage;
 import io.github.jschenfeld.automation.selenium.pages.DuckDuckGoResultadosPage;
 import io.github.jschenfeld.automation.selenium.pages.WikipediaArticuloPage;
-import io.github.jschenfeld.automation.selenium.utils.SeleniumUtils;
+//import io.github.jschenfeld.automation.selenium.utils.SeleniumUtils;
 
 public class DuckDuckGoTest {
 	
